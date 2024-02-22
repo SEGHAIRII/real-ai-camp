@@ -1,0 +1,4 @@
+Codeforces User Rating Prediction https://www.kaggle.com/t/30028ca05f1348cfb38bd4f39a044b70
+Music Popularity Prediction https://www.kaggle.com/t/7c1fae6831fb40c68842f86145ea82aa
+Phones Theft Risk Prediction https://www.kaggle.com/t/559ffbf5d36b4a67957210ffea51811c
+Student Academic State Prediction https://www.kaggle.com/t/1405827a432e4b9cac510b09f3426bb8
